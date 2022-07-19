@@ -13,7 +13,7 @@ public class Main {
 		pkg.takeLoan(20000);
 		pkg.withdraw(30000);
 		
-		ne.deposite(50000);
+		ne.deposite(50000); 
 		System.out.println("*************************");
 		ne.showAccount();
 		pkg.showAccount();
