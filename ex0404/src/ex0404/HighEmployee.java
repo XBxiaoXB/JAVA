@@ -19,7 +19,7 @@ public class HighEmployee extends Employee{
 
 	public int getBonus() {
 		this.salary = 5 * this.salary;
-		return this.salary;
+  		return this.salary;
 	}
 
 	public String getPost() {
