@@ -17,6 +17,7 @@ public class shop {
 	public Item buyltem(int itemNo) {
 		return null;
 	}
+	
 	public void addItem(Item item)	
 	{
 		listItem.add(item);
